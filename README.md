@@ -12,7 +12,6 @@ Identificar os fatores que influenciam a lucratividade dos produtos no varejo ut
 * Power BI
 * Power Query
 * DAX
-* Python (Google Colab)
 * GitHub
 
 ## Estrutura
@@ -37,4 +36,4 @@ Identificar os fatores que influenciam a lucratividade dos produtos no varejo ut
 
 ## Dashboard
 
-O projeto possui três dashboards executivos desenvolvidos no Power BI.
+O projeto possui dois dashboards executivos desenvolvidos no Power BI.
