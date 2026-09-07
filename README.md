@@ -1,7 +1,6 @@
 # Projeto de Business Intelligence e Analytics
 
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?logo=powerbi\&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python\&logoColor=white)
 ![DAX](https://img.shields.io/badge/DAX-Data_Analysis-blue)
 
 ## Objetivo
